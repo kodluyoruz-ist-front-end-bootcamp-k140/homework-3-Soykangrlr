@@ -1,5 +1,5 @@
 # Homework 3
-# [Clic to View Site](https://post-todos-app.netlify.app)
+
 ![Site Resmi](public/site-image.PNG)
 
 - Todo ve post olarak fetch ile 2 adet data çekilerek bunlar class component ve Fn componentde ayrı ayrı render edildi.
